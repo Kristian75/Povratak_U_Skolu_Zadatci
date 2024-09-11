@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\Zadatak6\Zadatak6\bin\Debug\Zadatak6.exe.config
+C:\Users\Korisnik\source\repos\Zadatak6\Zadatak6\bin\Debug\Zadatak6.exe
+C:\Users\Korisnik\source\repos\Zadatak6\Zadatak6\bin\Debug\Zadatak6.pdb
+C:\Users\Korisnik\source\repos\Zadatak6\Zadatak6\obj\Debug\Zadatak6.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\Zadatak6\Zadatak6\obj\Debug\Zadatak6.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Zadatak6\Zadatak6\obj\Debug\Zadatak6.exe
+C:\Users\Korisnik\source\repos\Zadatak6\Zadatak6\obj\Debug\Zadatak6.pdb
